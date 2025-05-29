@@ -22,7 +22,7 @@ AI-Studio is a local offline AI model runner app for Android devices. It enables
 - Sufficient storage and RAM for running AI models (requirements depend on model size)
 
 ### Installation
-1. Download the latest APK from the [Releases](https://github.com/your-repo/AI-Studio/releases/latest) section.
+1. Download the latest APK from the [Releases](https://github.com/mojahid2021/AI-Studio/releases/download/1.0.3/ai-studio.apk) section.
 2. Transfer the APK to your Android device if downloaded on another device.
 3. Open the APK file and follow the prompts to install. You may need to enable installation from unknown sources in your device settings.
 
