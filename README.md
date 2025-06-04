@@ -13,7 +13,7 @@ AI-Studio is a local offline AI model runner app for Android devices. It enables
 
 ## Download
 
-- **[Download the latest AI-Studio APK](https://github.com/your-repo/AI-Studio/releases/latest)**
+- **[Download the latest AI-Studio APK](https://github.com/mojahid2021/AI-Studio/releases/download/1.0.3/ai-studio.apk)**
 
 ## Getting Started
 
